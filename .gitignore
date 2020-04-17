@@ -1,0 +1,7 @@
+/static
+db.sqlite3
+.DS_Store
+*.pyc
+__ pycache __
+Pipfile
+
